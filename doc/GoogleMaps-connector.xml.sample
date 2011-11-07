@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(googlemaps:getDistance) -->
+    <googlemaps:get-distance origin="San+Francisco" destination="Milbrae" />
+<!-- END_INCLUDE(googlemaps:getDistance) -->
